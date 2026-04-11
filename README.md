@@ -7,9 +7,9 @@ SPDX-License-Identifier: AGPL
 
 # euroffice
 
-**Your sovereign office**
 
-![Euro-Office Document](https://raw.githubusercontent.com/Euro-Office/.github/refs/heads/main/screenshots/screenshot.png)
+
+
 
 ## What is Euroffice?
 
