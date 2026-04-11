@@ -1,4 +1,17 @@
-# euroffice.github.io
+<!--
+SPDX-FileCopyrightText: 2026 Euroffice contributors
+SPDX-License-Identifier: AGPL
+-->
+
+[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+# euroffice
+
+**Your sovereign office**
+
+![Euro-Office Document](https://raw.githubusercontent.com/Euro-Office/.github/refs/heads/main/screenshots/screenshot.png)
+
+## What is Euroffice?
 
 Euroffice
 Euroffice is a community driven initiative focused on developing and improving an open source office suite tailored to the languages, standards, and requirements of the European Union. The project aims to strengthen the European open source ecosystem, ensure high quality localization, and contribute to the development of Euro Office and ONLYOFFICE.
