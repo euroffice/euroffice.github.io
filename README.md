@@ -14,7 +14,7 @@ SPDX-License-Identifier: AGPL
 ## What is Euroffice?
 
 Euroffice
-Euroffice is a community driven initiative focused on developing and improving an open source office suite tailored to the languages, standards, and requirements of the European Union. The project aims to strengthen the European open source ecosystem, ensure high quality localization, and contribute to the development of Euro Office and ONLYOFFICE.
+Euroffice is a community driven initiative focused on developing and improving an open source office suite tailored to the languages, standards, and requirements of the European Union. The project aims to strengthen the European open source ecosystem, ensure high quality localization, and contribute to the development of Euro-Office and ONLYOFFICE.
 ### Our goals
 ####	Develop an open source office suite optimized for European users.
 ####	Simplify integration of EU languages into office software.
